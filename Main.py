@@ -1,1 +1,0 @@
-print(sum(map("fucking".count, "aeiou")) * 1)
